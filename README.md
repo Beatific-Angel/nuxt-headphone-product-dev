@@ -1,4 +1,3 @@
-Medium tutorial: https://medium.com/p/6d40da0209e0/
 
 Just upload your model to the static/model folder and enjoy.
 
